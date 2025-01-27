@@ -1,5 +1,6 @@
-Appendix-1
-Coding for prediction of straightness by Machine Learning Algorithm
+# Appendix-1
+# Coding for prediction of straightness by Machine Learning Algorithm
+# Before running the python program in jupyter notebook, the program filename extension to be .ipynb 
 
 # Coding for Bar Straightening Prediction by Machine Learning approaches
 # Code for Aluminium round bar data with input data file as “Al_after.csv” 
